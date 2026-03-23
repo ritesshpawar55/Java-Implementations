@@ -1,3 +1,5 @@
+package Task_2;
+
 class Seventeen{
 	public static void main(String[] args) {
 		int a = Integer.parseInt(args[0]);

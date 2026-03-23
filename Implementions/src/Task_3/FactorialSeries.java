@@ -1,4 +1,4 @@
-package task_3;
+package Task_3;
 
 public class FactorialSeries {
     public static void main(String[] args) {

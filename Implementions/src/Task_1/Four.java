@@ -1,3 +1,5 @@
+package Task_1;
+
 class Four{
 	public static void main(String[] args) {
 		double a = Double.parseDouble(args[0]);

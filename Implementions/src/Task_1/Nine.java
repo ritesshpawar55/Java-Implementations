@@ -1,3 +1,5 @@
+package Task_1;
+
 class Nine{
 	public static void main(String[] args) {
 		int a = Integer.parseInt(args[0]);

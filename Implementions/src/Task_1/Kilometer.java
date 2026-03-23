@@ -1,3 +1,5 @@
+package Task_1;
+
 class Kilometer{
 	public static void main(String[] args) {
 		double a  = Integer.parseInt(args[0]);

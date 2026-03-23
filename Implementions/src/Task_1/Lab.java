@@ -1,3 +1,5 @@
+package Task_1;
+
 /*class Lab{
 	public static void main(String[] args) {
 		for (int i=10; i<=110; i++){

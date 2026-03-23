@@ -1,4 +1,4 @@
-package task_4_1;
+package Task_4;
 import java.util.*;
 
 public class Reverse {

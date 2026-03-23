@@ -24,7 +24,7 @@ class BankAccount {
 
         acc.deposit(1000);
         acc.withdraw(300);
-        acc.withdraw(800); // invalid
+        acc.withdraw(600); // invalid
 
         System.out.println("Balance: " + acc.getBalance());
     }

@@ -1,3 +1,5 @@
+package Task_2;
+
 import java.util.Scanner;
 class Fourteen {
     public static void main(String[] args) {

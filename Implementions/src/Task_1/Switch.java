@@ -1,3 +1,5 @@
+package Task_1;
+
 class Switch{
 	public static void main(String[] args) {
 		

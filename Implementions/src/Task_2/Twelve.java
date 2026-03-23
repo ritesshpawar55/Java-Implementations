@@ -1,3 +1,5 @@
+package Task_2;
+
 class Twelve{
 	public static void main(String[] args) {
 		double bill_amount = 35.10;

@@ -1,3 +1,5 @@
+package Task_1;
+
 class First{
 	public static void main(String[] args){
 		int lenght = Integer.parseInt(args[0]);

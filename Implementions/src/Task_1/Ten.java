@@ -1,3 +1,5 @@
+package Task_1;
+
 class Ten{
 	public static void main(String[] args) {
 		
