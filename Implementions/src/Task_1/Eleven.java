@@ -2,8 +2,8 @@ package Task_1;
 
 class Eleven{
 	public static void main(String[] args) {
-		/*
-		practice code 
+		
+		//practice code 
 
 		
 		System.out.println("hello \nmy name is Ritessh.");

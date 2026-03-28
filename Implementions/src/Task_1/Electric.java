@@ -3,7 +3,7 @@ package Task_1;
 class Electric{
 	public static void main(String[] args) {
 		
-		double unit = Double.parseDouble(args[0]);
+		double unit = 200.22;
 
 		if(unit>=300){
 			System.out.println("Rs. 8 per unit");

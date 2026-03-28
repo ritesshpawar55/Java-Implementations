@@ -3,7 +3,7 @@ package Task_1;
 class Eight{
 	public static void main(String[] args) {
 		
-		int i = Integer.parseInt(args[0]);
+		int i = 2060;
 		
 		if(i%400 == 0){
 			System.out.println("leap year");
