@@ -1,7 +1,5 @@
 package com.company.hr;
-
 public class Employee {
-	
 	private String name;
 	private int eid;
 	private double esal;
@@ -11,7 +9,6 @@ public class Employee {
 		this.eid=eid;
 		this.esal=esal;
 	}
-	
 	public void displayEmployeeDetails() {
 		System.out.println(name);
 		System.out.println(eid);

@@ -1,8 +1,8 @@
 package com.example.access;
 
-class PackagePrivateClass {
+public class PackagePrivateClass {
 
-	void showPackagePrivateMessage() {
+	private void showPackagePrivateMessage() {
 		System.out.println("Private class.");
 	}
 }

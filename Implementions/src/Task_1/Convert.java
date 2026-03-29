@@ -12,6 +12,7 @@ class Convert{
 			case 4 -> System.out.println("FOUR");
 			case 5 -> System.out.println("FIVE");
 			default -> System.out.println("Enter between 0-5 only.");
+			
 		}
 	}
 }
