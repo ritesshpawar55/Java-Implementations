@@ -10,5 +10,4 @@ public class Main extends Thread{
 		p.start();
 		o.start();
 	}
-
 }

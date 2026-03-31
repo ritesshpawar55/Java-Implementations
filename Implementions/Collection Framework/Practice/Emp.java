@@ -2,7 +2,7 @@ package Practice;
 
 public class Emp {
 	private int id;
-	private String name;
+	String name;
 	private double sal;
 	
 	

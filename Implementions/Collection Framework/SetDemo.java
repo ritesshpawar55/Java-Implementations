@@ -17,5 +17,5 @@ public class SetDemo {
 		while(itr.hasNext()) {
 			System.out.println(itr.next());
 		}
-	}
+	}	
 }

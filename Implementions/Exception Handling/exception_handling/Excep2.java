@@ -11,7 +11,7 @@ class Excep2{
 		arr[2] = 100;
 		}
 		catch(ArrayIndexOutOfBoundsException e) {
-			System.out.println("Catched Successfully." +e);
+			System.out.println("Catched Successfully " +e);
 		}
 	}  
 }  

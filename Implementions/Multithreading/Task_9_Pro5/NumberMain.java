@@ -1,5 +1,4 @@
 package Task_9_Pro5;
-
 import java.util.*;
 
 class PrimeThread extends Thread {

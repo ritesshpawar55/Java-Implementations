@@ -4,7 +4,7 @@ public class One extends Thread {
 	
 	@Override
 	public void run() {
-		for(int i=0; i<=15; i++) {
+		for(int i=0; i<=5; i++) {
 			System.out.println("WEL-COME");
 		}
 	}
